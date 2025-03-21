@@ -45,17 +45,17 @@ h1 {
 @media (min-width: 768px) and (max-width: 991px) {
     .section {
         float: left;
-        width: calc(50% - 20px); /* first two sections 50% width each */
+        width: calc(50% - 20px);
     }
     .section:nth-child(3) {
-        width: 100%; /* third section full width */
-        clear: both; /* clear floats */
+        width: 100%;
+        clear: both;
     }
 }
 
 /* Mobile view */
 @media (max-width: 767px) {
     .section {
-        width: 100%; /* each section takes full width */
+        width: 100%;
     }
 }
