@@ -13,3 +13,8 @@
 #top {
   scroll-margin-top: 220px;
 }
+
+body {
+  font-family: Arial, sans-serif;
+  font-weight: 400;
+}
