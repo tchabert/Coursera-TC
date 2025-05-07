@@ -1,0 +1,15 @@
+.navbar-collapse .nav > li > a:hover {
+  background-color: #eee;
+}
+
+.section h3 {
+  margin-top: -3px;
+}
+
+#top {
+  margin-bottom: 20px;
+}
+
+#top {
+  scroll-margin-top: 220px;
+}
